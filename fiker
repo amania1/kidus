@@ -1,0 +1,8 @@
+insert into customers (Cust_ID,Cust_FirstName,Cust_LastName,Cust_Age,Cust_Gender,Cust_Country,Cust_Salary)
+values(111, "Nick", "Jones", 26, "M", "USA", 20000),
+ (222, "Antony", "Martial", 24, "M", "France", 10000),
+ (333, "Nebiha", "Amir", 24, "F", "Uzbekistan",36000),
+ (444, "Soresa", "Hailu", 24, "M", "Unkown", 34000),
+ (555, "Beka", "Haile", 25, "M", "Kazakhstan", 40000),
+ (777, "Poul", "Pogba", 26, "M", "France",20000),
+ (888, "Betty", "G", 27, "F", "Ethiopia", 70000)
